@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "watch": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "name": "social-network-api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rod0352/Social-Network-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rod0352/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/Rod0352/Social-Network-API#readme"
+}
